@@ -1,0 +1,24 @@
+img {
+  width: 30%;
+}
+
+.loading-wrapper {
+  height: 100vh;
+  width: 100vw;
+  background: #16a085;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  color: #fff;
+  font-weight: bolder;
+}
+
+.ia-wrapper {
+  background: #ecf0f1;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
